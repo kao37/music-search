@@ -1,6 +1,6 @@
+
 <template>
 <v-container>
-  
   <v-layout
   text-center
   wrap
@@ -36,6 +36,7 @@
                   v-text="album.collectionName"
                 ></v-card-title>
                 <v-card-subtitle v-text="album.artistName"></v-card-subtitle>
+            
               </div>
               <v-avatar
                 class="ma-3"

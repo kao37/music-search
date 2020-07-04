@@ -8,7 +8,7 @@
       <v-btn
         text
         to="/">
-        <span class="mr-2">検索画面に戻る</span>
+        <span class="mr-2">Home</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>

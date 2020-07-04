@@ -1,11 +1,11 @@
 <template>
   <v-container>
-<v-parallax
-    height="300"
-    src="https://www.u4get.com/wp-content/uploads/2019/02/TE-D01d_model-1140x641.jpg"
-  ></v-parallax>
-<!-- https://i.ytimg.com/vi/vsFi9jPnQ9E/maxresdefault.jpg -->
+<v-parallax xs12 sm6 md4
+    height="300" 
+    src="https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"></v-parallax>
+<!-- https://www.u4get.com/wp-content/uploads/2019/02/TE-D01d_model-1140x641.jpg -->
 
+<!-- https://i.ytimg.com/vi/vsFi9jPnQ9E/maxresdefault.jpg -->
     <v-row class="text-center">
       <v-col
         class="mb-1"
