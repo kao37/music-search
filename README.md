@@ -1,6 +1,6 @@
-### アプリ名：音楽検索
+### アプリ名: 音楽検索
+### URL: https://music-search3-7.web.app/
 ![m02](https://user-images.githubusercontent.com/64763739/86563456-5d0c1680-bf9f-11ea-9e5d-a29be1445c12.png)
-URL:https://music-search3-7.web.app/
 
 ### 制作背景：
 他の言語に挑戦&APIを使いつそうして見たいなぁと思い制作。
